@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+    "$basetexture"                  "models/cpthazama/ds3/slasher/slasherfrozen"
+	"$bumpmap"						"models/cpthazama/ds3/slasher/slasherfrozen_n"
+	"$phongexponenttexture" 		"cptbase/exponent"
+
+    "$nocull" 						"1"
+    "$nodecal" 						"1"
+	"$model"						"1"
+
+	"$phong" 						"1"
+	"$phongboost"					"5"
+	"$phongfresnelranges"			"[1 1 1]"
+	"$phongalbedotint" 				"1"
+}
